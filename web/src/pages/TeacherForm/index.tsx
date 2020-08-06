@@ -113,6 +113,7 @@ function TeacherForm() {
                                     { value: 'Biologia', label: 'Biologia' },
                                     { value: 'Matemática', label: 'Matemática' },
                                     { value: 'Português', label: 'Português' },
+                                    { value: 'Lógica de programação', label: 'Lógica de programação' }
                                 ]}
                             />
 
